@@ -1,0 +1,4 @@
+jackconfig
+==========
+
+my configuration files
